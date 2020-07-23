@@ -1,4 +1,4 @@
-# This repository has installation and setup guide for vagrant, virtual box, Ruby as well testing the installation available in their respective folders
+# This repository has installation and setup guide for Vagrant, Virtual box, Ruby as well as Testing the installation available in their respective folders
 ## It is vital for you to read instructions thoroughly and follow all the steps as instructed
 ### If you face any challenges during the installation and setup please revisit the steps and ensure to follow the guide relevant to your OS i.e windows, Mac etc.
 
