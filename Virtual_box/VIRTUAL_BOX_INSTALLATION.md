@@ -6,6 +6,9 @@ Let's install that now too.
 - if you face any errors please read the instruction/steps thoroughly
 
 [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+- Ensure to install vitual box 6.1 version
+
+![](https://github.com/khanmaster/vb_vagrant_installtion/blob/master/images/VB_Version.png)
 
 We won't actually use VirtualBox directly. Vagrant will handle everything.
 
