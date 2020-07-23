@@ -15,4 +15,4 @@ https://www.ruby-lang.org/en/downloads/
 
 - Check version on yout git-bash terminal
 
-![](https://github.com/khanmaster/vb_vagrant_installtion/blob/master/images/Screenshot%20(152).png)
+![](https://github.com/khanmaster/vb_vagrant_installtion/blob/master/images/ruby_version.png)
