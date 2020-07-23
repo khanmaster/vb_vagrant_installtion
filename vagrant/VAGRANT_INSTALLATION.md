@@ -11,6 +11,9 @@
 Let's install Vagrant now. You can get the program from the following link for Mac, PC or Linux.
 
 [Install vagrant](https://www.vagrantup.com/)
+- Ensure to install vagrant version 2.2.7 as shown in below:
+
+![](https://github.com/khanmaster/vb_vagrant_installtion/blob/master/images/Vagrant_Version.png)
 
 If you are running this on Windows, you will have to do the following things:
 
@@ -67,6 +70,7 @@ Additional subcommands are available, but are either more advanced
 or not commonly used. To see all subcommands, run the command
 `vagrant list-commands`.
 ```
-
+- Check version of your vagrant on git bash
+- ``` vagrant --version ```
 # The next step is to install virtual box
 - Please go to Virtual box folder in this repository for setup guide
