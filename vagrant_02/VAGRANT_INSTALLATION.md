@@ -9,7 +9,7 @@
 - We can install any operating system on it we like and it is kept completely separate and independent of the developer's machine.
 
 Let's install Vagrant now. You can get the program from the following link for Mac, PC or Linux.
-
+**Mac Users ** - system preferences of MacOS, in Privacy and Security, approve the update from Oracle.
 [Install vagrant](https://www.vagrantup.com/)
 - Ensure to install vagrant version 2.2.7 as shown in below:
 
