@@ -21,3 +21,6 @@ Go to test_all_installation_04 folder and follow the instruction
 ```
 # Ensure to download x64 for your OS
 https://www.c-sharpcorner.com/blogs/step-by-step-enabling-hyperv-on-windows-10
+
+Mac issue
+https://stackoverflow.com/questions/49613092/installation-of-virtual-box-on-mac-os-kernel-driver-not-loaded
