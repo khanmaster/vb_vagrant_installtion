@@ -23,5 +23,5 @@ We won't actually use VirtualBox directly. Vagrant will handle everything.
 > 7. Under **Manufacturer** choose **Oracle Corporation** and under **Network Service**, choose **VirtualBox NDIS6 Bridged Networking driver**
 
 > This should install all the drivers you need to run Virtual Box on Windows.
-
+https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v
 ### We are ready to create our virtual environment with vagrant Linux VM/OS!
